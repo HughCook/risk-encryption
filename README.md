@@ -10,7 +10,7 @@ Risk encryption is a peice of malware that encrypts the main drive of a users de
 
 This is not ransomware it is purely just distructive, the program when run will look like a regular TUI disk encryption program and will delete itslelf after being run.
 
-Also I realised after starting the project that this has been done on Mr Robot
+Also I realised after starting the project that the same thing has been done on Mr Robot and was probably subconsiously inspired by it.
 
 ## FAQ
 
