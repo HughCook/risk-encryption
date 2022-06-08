@@ -1,5 +1,9 @@
 # Risk Encryption
 
+## Disclaimer
+
+Not that I think this program will have wide enough use for this problem, but I do condone the use of this program for malicious purposes.
+
 ## Installing
 
 Run [cargo build --release] and a binary will be created that can only be executed when in the risk-encryption directory
