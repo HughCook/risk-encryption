@@ -29,6 +29,7 @@ Also I realised after starting the project that the same thing has been done on 
 - Create a believable TUI
 - Don't get flagged by malware detection
 - Create an install script
+- Add crate to cargo for direct install
 
 ### TUI TODO
 
@@ -42,6 +43,10 @@ Also I realised after starting the project that the same thing has been done on 
 - Create a fake man page
 - Create a GUI
 - Add a russian roulette flag (Hidden unless you read the readme)
+
+## License
+
+Change, republish, do anything just please add credit
 
 ## Helping
 

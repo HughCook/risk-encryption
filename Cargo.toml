@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-# termion = "*"
+json = "0.12.4"
+tui = "0.18.0"
+is-laptop = "0.3.0"
+rand = "0.8.4"
