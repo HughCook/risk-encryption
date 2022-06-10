@@ -46,7 +46,7 @@ Also I realised after starting the project that the same thing has been done on 
 
 ## License
 
-Change, republish, do anything just please add credit
+This software uses the MIT License, a copy of the license should come with this code where ever you choose to download it from
 
 ## Helping
 
